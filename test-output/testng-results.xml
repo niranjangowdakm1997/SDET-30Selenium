@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-10T09:43:56Z" name="Default suite" finished-at="2022-03-10T09:43:56Z" duration-ms="46">
+  <suite started-at="2022-03-10T10:00:38Z" name="Default suite" finished-at="2022-03-10T10:00:38Z" duration-ms="72">
     <groups>
     </groups>
-    <test started-at="2022-03-10T09:43:56Z" name="Default test" finished-at="2022-03-10T09:43:56Z" duration-ms="46">
-      <class name="TestToGithub.TestingForGitHub">
-        <test-method signature="connectToGitHub()[pri:0, instance:TestToGithub.TestingForGitHub@5be49b60]" started-at="2022-03-10T09:43:56Z" name="connectToGitHub" finished-at="2022-03-10T09:43:56Z" duration-ms="11" status="PASS">
+    <test started-at="2022-03-10T10:00:38Z" name="Default test" finished-at="2022-03-10T10:00:38Z" duration-ms="72">
+      <class name="TestToGithub.TestingForGIt">
+        <test-method signature="connectToGitHub1()[pri:0, instance:TestToGithub.TestingForGIt@5be49b60]" started-at="2022-03-10T10:00:38Z" name="connectToGitHub1" finished-at="2022-03-10T10:00:38Z" duration-ms="21" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- connectToGitHub -->
-      </class> <!-- TestToGithub.TestingForGitHub -->
+        </test-method> <!-- connectToGitHub1 -->
+      </class> <!-- TestToGithub.TestingForGIt -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
